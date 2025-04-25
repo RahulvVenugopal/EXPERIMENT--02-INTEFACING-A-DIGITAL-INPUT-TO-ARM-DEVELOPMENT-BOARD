@@ -137,11 +137,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ![435609921-a09b99eb-0c54-4edd-a0d2-091df379abf9](https://github.com/user-attachments/assets/df1c5b75-8a6c-4646-a03c-bd81f068aa1a)
 
 ### When LED ON :
-![WhatsApp Image 2025-04-21 at 14 18 23_bfbaaa81](https://github.com/user-attachments/assets/b2415f08-a469-44e1-9842-9e0cf5eb6707)
+![435609780-b2415f08-a469-44e1-9842-9e0cf5eb6707](https://github.com/user-attachments/assets/7bc059f1-22f0-4de0-967a-3410aed6a41b)
 
- 
 ## layout of the circuit :
- ![WhatsApp Image 2025-04-21 at 14 24 17_50ecd967](https://github.com/user-attachments/assets/9a43b3ef-76a4-4eec-aa15-9decad1c60aa)
+![435611985-9a43b3ef-76a4-4eec-aa15-9decad1c60aa](https://github.com/user-attachments/assets/88f9a85a-64ca-4568-b490-a72ca292297f)
 
  
 ## Result :
